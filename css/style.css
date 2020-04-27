@@ -1,18 +1,20 @@
 div{
-  background-color: springgreen;
+  background-color: gainsboro;
 }
-span{
-  background-color: darkolivegreen;
+span1{
+  background-color: mediumspringgreen;
 }
 img {
   border-radius: 8px;
-  width: 35%;
+  width: 40%;
   height: auto;
   display:block;
   margin: 0 auto;
+  float:right;
 }
 body {
-  background-color:mediumspringgreen;
+  background-color:lightcyan;
+  text-align: left;
 }
 h1 {
   text-decoration: underline;
@@ -71,4 +73,16 @@ p {
   font-family: Arial;
   text-align: left;
   font-size: large;
+}
+#holder {
+  width: 1700px;
+  height: auto;
+  background-color: mistyrose ;
+  font-size: 4000%;
+}
+span2{
+  background-color: greenyellow;
+  font-size: 300px
+  text-align:left;
+
 }
