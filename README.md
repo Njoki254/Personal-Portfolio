@@ -1,36 +1,34 @@
-This project is called Personal-portfolio
-The author is Faith Njoki Kamau
-The project includes a CSS, HTMl file, and more images included in the folder.
+##This project is called Personal-portfolio
+##The author is Faith Njoki Kamau
+##The project includes a CSS, HTMl file, and more images included in the folder.
 
-Below is a link to the project on github pages
+##Below is a link to the project on github pages
 
 https://github.com/Njoki254/Personal-Portfolio
 
-This is a sample readme file for our Github Example repo. We are learning HTML and CSS through creating our own personal portfolios on github
-Below are the objectives and  requirements this project has met.
-The objectives this project aimed to meet are:
+##This is a sample readme file for our Github Example repo. We are learning HTML and CSS through creating our own personal portfolios on github
+##Below are the objectives and  requirements this project has met.
+##The objectives this project aimed to meet are:
 
-*To use Some of the most common HTML tags are incorporated, including:
-p, h, ul, ol, li, em, strong, a, img, div, span</li>
-*Page incorporates a custom-made stylesheet that uses cascading, the box model, and floats
-*Ensure Indentation and spacing of HTML and CSS is accurate.
-*Commits are made regularly with clear messages associated with them
-*Project is deployed to GitHub Pages
-*A project README that includes:
-*project or program name
-*author name
-*description of project
-*project setup instructions
-*link to live site on GitHub Pages
-*copyright and license information
+##*To use Some of the most common HTML tags are incorporated, including:
+##p, h, ul, ol, li, em, strong, a, img, div, span</li>
+##*Page incorporates a custom-made stylesheet that uses cascading, the box model, and floats
+##*Ensure Indentation and spacing of HTML and CSS is accurate.
+##*Commits are made regularly with clear messages associated with them
+##*Project is deployed to GitHub Pages
+##*A project README that includes:
+##*project or program name
+##*author name
+##*description of project
+##*project setup instructions
+*##link to live site on GitHub Pages
+##*copyright and license information
 
 
 The project includes:
 
-*My name
-*A link of the projects I've created in the recent past that also have descriptions of the projects
-*I've also included an about me section
-*My current skills, hobbies and interests.
+##*I've also included an about me section
+##*My current skills, hobbies and interests.
 
 Licence
 
