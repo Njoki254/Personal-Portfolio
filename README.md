@@ -4,7 +4,7 @@ The project includes a CSS, HTMl file, and more images included in the folder.
 
 Below is a link to the project on github pages
 
-https://github.com/Njoki254/Personal-Portfolio
+https://njoki254.github.io/Personal-Portfolio/
 
 This is a sample readme file for our Github Example repo. We are learning HTML and CSS through creating our own personal portfolios on github
 Below are the objectives and  requirements this project has met.
